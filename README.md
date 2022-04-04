@@ -17,8 +17,9 @@ To write a program to implement the multivariate linear regression model for sal
 ```
 /*
 Program to implement the multivariate linear regression model for sales prediction.
-Developed by: 
-RegisterNumber:  
+Developed by:Umar Mohmaed E 
+RegisterNumber:212220040173  
+~~~
 */
 ```
 
